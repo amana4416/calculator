@@ -14,12 +14,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Artis-Dev/calculator.git"
+      "url": "git+https://github.com/amana4416/calculator.git"
     },
-    "author": "ArtisDev",
+    "author": "Aman",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Artis-Dev/calculator/issues"
+      "url": "https://github.com/amana4416/calculator/issues"
     },
-    "homepage": "https://github.com/Artis-Dev/calculator#readme"
+    "homepage": "https://github.com/amana4416/calculator#readme"
   }
